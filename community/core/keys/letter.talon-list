@@ -1,0 +1,30 @@
+list: user.letter
+-
+# for common alternative spoken forms for letters, visit
+# https://talon.wiki/Resource%20Hub/Speech%20Recognition/improving_recognition_accuracy#collected-alternatives-to-the-default-alphabet
+air: a
+bill: b
+cup: c
+drum: d
+each: e
+fine: f
+gone: g
+ham: h
+ice: i
+June: j
+king: k
+look: l
+made: m
+near: n
+orc: o
+pond: p
+queen: q
+red: r
+sun: s
+time: t
+you: u
+vent: v
+wow: w
+ex: x
+yank: y
+zoo: z

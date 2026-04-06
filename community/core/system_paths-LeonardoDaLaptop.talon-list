@@ -1,0 +1,17 @@
+list: user.system_paths
+hostname: LeonardoDaLaptop
+-
+user: C:\Users\tgkha
+desktop: C:\Users\tgkha\OneDrive\Desktop
+desk: C:\Users\tgkha\Desktop
+documents: C:\Users\tgkha\OneDrive\Documents
+docks: C:\Users\tgkha\Documents
+downloads: C:\Users\tgkha\Downloads
+music: C:\Users\tgkha\Music
+pictures: C:\Users\tgkha\OneDrive\Pictures
+videos: C:\Users\tgkha\Videos
+talon home: C:\Users\tgkha\AppData\Roaming\talon
+talon recordings: C:\Users\tgkha\AppData\Roaming\talon\recordings
+talon user: C:\Users\tgkha\AppData\Roaming\talon\user
+profile: C:\Users\tgkha
+one drive: C:\Users\tgkha\OneDrive

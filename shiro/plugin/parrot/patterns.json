@@ -1,0 +1,29 @@
+{
+	"cluck": {
+		"sounds": [
+			"cluck"
+		],
+		"threshold": {
+			">power": 20,
+			">probability": 0.95
+		}
+	},
+	"pop": {
+		"sounds": [
+			"pop"
+		],
+		"threshold": {
+			">power": 20,
+			">probability": 0.99
+		}
+	},
+	"click": {
+		"sounds": [
+			"click"
+		],
+		"threshold": {
+			">power": 10,
+			">probability": 0.80
+		}
+	}
+}

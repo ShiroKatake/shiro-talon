@@ -1,0 +1,18 @@
+list: user.special_key
+os: windows
+os: linux
+-
+
+home: home
+minus: minus
+send: enter
+page down: pagedown
+page up: pageup
+escape: escape
+space: space
+tapa: tab
+insert: insert
+na: backspace
+delete: delete
+menu key: menu
+print screen: printscr
